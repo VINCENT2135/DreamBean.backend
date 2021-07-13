@@ -1,0 +1,4 @@
+class CoffeeBeans < ApplicationRecord 
+
+
+end 
