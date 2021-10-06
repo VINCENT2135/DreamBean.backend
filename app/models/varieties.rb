@@ -1,0 +1,3 @@
+class Varieties < ApplicationRecord
+
+end

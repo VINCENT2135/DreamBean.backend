@@ -69,3 +69,6 @@ class BeansController < ApplicationController
       params.require(:bean).permit(:name, :origin)
     end
 end
+
+
+
