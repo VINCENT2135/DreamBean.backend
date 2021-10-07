@@ -1,0 +1,2 @@
+module BeanVarietiesHelper
+end

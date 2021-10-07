@@ -1,0 +1,2 @@
+class BeanVariety < ApplicationRecord
+end
