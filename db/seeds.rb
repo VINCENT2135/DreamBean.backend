@@ -11,6 +11,8 @@ Bean.create(name: "Robusta", origin: "Africa")
 
 BeanVariety.create(name: "Arabica", location: "Arabia")
 
+User.create(username: "Frank", email:"Jones")
+
 
 
 

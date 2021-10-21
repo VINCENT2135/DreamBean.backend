@@ -6,6 +6,9 @@ gem 'rack-cors'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.4'
 # Use sqlite3 as the database for Active Record
+gem "thin", "~> 1.8"
+gem "omniauth-facebook", "~> 8.0"
+gem "omniauth-rails_csrf_protection", "~> 1.0"
 gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
 gem 'puma', '~> 5.0'
