@@ -13,7 +13,7 @@ BeanVariety.create(name: "Arabica", location: "Arabia")
 
 User.create(username: "Frank", email:"Jones")
 
-User.create(username: "John", email:"Smith")
+User.create(username: "John", email:"Smith" )
 
 
 
